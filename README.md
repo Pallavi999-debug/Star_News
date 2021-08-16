@@ -1,6 +1,6 @@
 # Star News
-![start news](https://user-images.githubusercontent.com/79240706/129509816-4a60b1ae-7d7a-47ef-8740-72ba25ceaa33.PNG)
 
+![Star News](https://user-images.githubusercontent.com/79240706/129510468-f6f04f6b-f178-4153-ad7e-0c6c0f112c87.PNG)
 
 # **Built With**
 
