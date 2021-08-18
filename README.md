@@ -19,7 +19,8 @@ Install git on your machine and clone this repository.
 Open http://localhost:5500 to view it in the browser. After editing the webpage will reload.
 
 
-**If you like my project please give me a star.**
-
-
 **Thank you for checking my project!!!**
+
+### Show your support
+
+**Give a ⭐ if you like this website!!!**
