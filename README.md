@@ -16,6 +16,7 @@ This project was built using below technologies.
 1. HTML
 2. CSS
 3. VsCode
+4. Vercel
 
 # How to get started?
 
