@@ -1,6 +1,13 @@
-# Star News
+<h2 align="center">
+  Star News Website <br/>
+  <a href="https://star-news.vercel.app/" target="">Star_News</a>
+</h2>
 
-![Star News](https://user-images.githubusercontent.com/79240706/129510468-f6f04f6b-f178-4153-ad7e-0c6c0f112c87.PNG)
+<div align="center">
+  
+ <img alt="Demo" src="./images/Star News.PNG" />
+ 
+</div>
 
 # Built With
 
